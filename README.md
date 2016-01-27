@@ -1,2 +1,5 @@
 # 3308Lab3
-lab3 stuff
+
+Jake Mitchell
+102357677
+1-27-16
